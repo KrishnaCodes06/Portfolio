@@ -1,3 +1,6 @@
+body {
+  background-color: yellow !important;
+}
 /* General */
 * {
   margin: 0;
